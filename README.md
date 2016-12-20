@@ -4,10 +4,9 @@
 ##Inicio: Suma de dos números
 
 ###Ingreso datos
-
- 1 numero1
- 2 numero2
- 3 resultado
+ + numero1
+ + numero2
+ + resultado
 
 ###Proceso
 
@@ -17,4 +16,4 @@
 
 ###Mostrar resultado
 
-Fin
+Fin 
